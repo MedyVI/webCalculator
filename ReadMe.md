@@ -34,7 +34,7 @@ This project is a responsive web calculator built using HTML, CSS, and JavaScrip
 - **Library `math.js`**: Included for potential future improvements in handling complex calculations.
 
 ## Screenshots  
-<img src="/home/medyvi/repos/Calculatrice/ScreenCalc.png">
+![Calculator screenshot](ScreenCalc.png)
 
 ## Potential Improvements  
 - A simple back button that I realize I forgot as I type these lines.
