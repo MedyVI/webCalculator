@@ -13,9 +13,6 @@
  - That's when I understood the power of this assistant. But also the danger of excessive use of AI.
 
  - We must not lose sight of learning and practice that we could call classic. Because I don't teach anyone anything: it's by doing that we succeed.
- <br>
- 
-
 
 ## Description  
 This project is a responsive web calculator built using HTML, CSS, and JavaScript. It allows users to perform arithmetic operations with an intuitive and modern interface.
